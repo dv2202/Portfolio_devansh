@@ -378,7 +378,7 @@ a{
   scale: 1.1;
 }
 .project-heading {
-  font-size: 50px;
+  font-size: 40px;
   font-weight: bold;
   line-height: 3rem;
 }
@@ -446,17 +446,17 @@ a{
 }
 
 #project1 {
-  background-image: url(./images/projects/Project1.png);
+  background-image: url(./images/Screenshot\ 2023-03-08\ at\ 5.19.48\ PM.png);
 }
 #project2 {
-  background-image: url(./images/projects/Project2.png);
+  background-image: url(./images/passwordgenerator.png);
   margin-left: 120px;
 }
 #project3 {
-  background-image: url(./images/projects/Project3.png);
+  background-image: url(./images/profilemodal.png);
 }
 #project4 {
-  background-image: url(./images/projects/Project4.png);
+  background-image: url(./images/weather.png);
   margin-left: 120px;
 }
 
@@ -532,12 +532,12 @@ a{
   width: 50%;
 }
 .skill-fade-text {
-  font-size: 15em;
+  font-size: 13em;
   font-weight: bold;
   color: rgb(231, 231, 231);
   bottom: -34.5%;
   overflow-y: hidden;
-  right: -25%;
+  right: -3%;
   user-select: none;
 }
 .skill-container-right {
