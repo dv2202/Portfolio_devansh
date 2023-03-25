@@ -459,6 +459,13 @@ a{
   background-image: url(./images/weather.png);
   margin-left: 120px;
 }
+#project5 {
+  background-image: url(./images/userAsset/tic-tac-toe.png);
+}
+#project6 {
+  background-image: url(./images/React_card.png);
+  margin-left: 120px;
+}
 
 @media (max-width:1300px) {
   .page-header {
